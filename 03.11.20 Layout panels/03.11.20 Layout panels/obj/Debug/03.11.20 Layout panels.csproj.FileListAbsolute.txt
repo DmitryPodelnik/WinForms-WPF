@@ -1,0 +1,15 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\03.11.20 Layout panels.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\MainWindow.g.cs
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\App.g.cs
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\03.11.20 Layout panels_MarkupCompile.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\03.11.20 Layout panels_MarkupCompile.lref
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\bin\Debug\03.11.20 Layout panels.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\bin\Debug\03.11.20 Layout panels.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\bin\Debug\03.11.20 Layout panels.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\MainWindow.baml
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\03.11.20 Layout panels.g.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\_03._11._20_Layout_panels.Properties.Resources.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\03.11.20 Layout panels.csproj.GenerateResource.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\03.11.20 Layout panels.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\03.11.20 Layout panels.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\03.11.20 Layout panels\03.11.20 Layout panels\obj\Debug\03.11.20 Layout panels.pdb

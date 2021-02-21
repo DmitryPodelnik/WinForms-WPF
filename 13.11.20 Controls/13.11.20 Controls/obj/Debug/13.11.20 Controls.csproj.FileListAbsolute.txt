@@ -1,0 +1,15 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\bin\Debug\13.11.20 Controls.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\bin\Debug\13.11.20 Controls.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\bin\Debug\13.11.20 Controls.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\13.11.20 Controls.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\MainWindow.g.cs
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\App.g.cs
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\13.11.20 Controls_MarkupCompile.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\13.11.20 Controls_MarkupCompile.lref
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\MainWindow.baml
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\13.11.20 Controls.g.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\_13._11._20_Controls.Properties.Resources.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\13.11.20 Controls.csproj.GenerateResource.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\13.11.20 Controls.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\13.11.20 Controls.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\13.11.20 Controls\13.11.20 Controls\obj\Debug\13.11.20 Controls.pdb

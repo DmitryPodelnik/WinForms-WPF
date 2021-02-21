@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sessions>
+  <event name="123">
+    <date>27.11.2020</date>
+  </event>
+  <event name="321">
+    <date>28.11.2020</date>
+  </event>
+  <event name="3221">
+    <date>29.11.2020</date>
+  </event>
+</sessions>

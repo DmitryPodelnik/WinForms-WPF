@@ -1,0 +1,16 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\bin\Debug\14.11.20 Templates.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\bin\Debug\14.11.20 Templates.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\bin\Debug\14.11.20 Templates.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\14.11.20 Templates.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\MainWindow.g.cs
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\App.g.cs
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\14.11.20 Templates_MarkupCompile.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\14.11.20 Templates_MarkupCompile.lref
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\MainWindow.baml
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\14.11.20 Templates.g.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\_14._11._20_Templates.Properties.Resources.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\14.11.20 Templates.csproj.GenerateResource.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\14.11.20 Templates.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\14.11.20 Templates.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\14.11.20 Templates.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\14.11.20 Templates\14.11.20 Templates\obj\Debug\Dictionary1.baml

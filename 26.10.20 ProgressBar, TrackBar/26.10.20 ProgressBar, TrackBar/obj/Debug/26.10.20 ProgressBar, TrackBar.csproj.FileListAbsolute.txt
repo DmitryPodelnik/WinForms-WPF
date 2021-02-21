@@ -1,0 +1,10 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\26.10.20 ProgressBar, TrackBar\26.10.20 ProgressBar, TrackBar\bin\Debug\26.10.20 ProgressBar, TrackBar.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\26.10.20 ProgressBar, TrackBar\26.10.20 ProgressBar, TrackBar\bin\Debug\26.10.20 ProgressBar, TrackBar.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\26.10.20 ProgressBar, TrackBar\26.10.20 ProgressBar, TrackBar\bin\Debug\26.10.20 ProgressBar, TrackBar.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\26.10.20 ProgressBar, TrackBar\26.10.20 ProgressBar, TrackBar\obj\Debug\26.10.20 ProgressBar, TrackBar.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\26.10.20 ProgressBar, TrackBar\26.10.20 ProgressBar, TrackBar\obj\Debug\_26._10._20_ProgressBar__TrackBar.Form1.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\26.10.20 ProgressBar, TrackBar\26.10.20 ProgressBar, TrackBar\obj\Debug\_26._10._20_ProgressBar__TrackBar.Properties.Resources.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\26.10.20 ProgressBar, TrackBar\26.10.20 ProgressBar, TrackBar\obj\Debug\26.10.20 ProgressBar, TrackBar.csproj.GenerateResource.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\26.10.20 ProgressBar, TrackBar\26.10.20 ProgressBar, TrackBar\obj\Debug\26.10.20 ProgressBar, TrackBar.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\26.10.20 ProgressBar, TrackBar\26.10.20 ProgressBar, TrackBar\obj\Debug\26.10.20 ProgressBar, TrackBar.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\26.10.20 ProgressBar, TrackBar\26.10.20 ProgressBar, TrackBar\obj\Debug\26.10.20 ProgressBar, TrackBar.pdb

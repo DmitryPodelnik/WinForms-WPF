@@ -1,0 +1,40 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\21.10.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\21.10.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\21.10.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\21.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\21.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\_21._10._20_TextBox_Calendar.Form1.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\21.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\_21._10._20_TextBox_Calendar.Properties.Resources.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\21.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csproj.GenerateResource.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\21.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\21.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\21.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\22.10.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\22.10.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\22.10.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\22.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\22.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\_21._10._20_TextBox_Calendar.Form1.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\22.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\_21._10._20_TextBox_Calendar.Properties.Resources.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\22.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csproj.GenerateResource.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\22.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\22.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\22.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\24.10.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\24.10.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\24.10.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\24.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\24.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\_21._10._20_TextBox_Calendar.Form1.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\24.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\_21._10._20_TextBox_Calendar.Properties.Resources.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\24.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csproj.GenerateResource.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\24.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\24.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\24.10.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\18.11.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\18.11.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\18.11.20 TextBox Calendar\21.10.20 TextBox Calendar\bin\Debug\21.10.20 TextBox Calendar.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\18.11.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\18.11.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\_21._10._20_TextBox_Calendar.Form1.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\18.11.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\_21._10._20_TextBox_Calendar.Properties.Resources.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\18.11.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csproj.GenerateResource.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\18.11.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\18.11.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms & WPF\Solved homework\18.11.20 TextBox Calendar\21.10.20 TextBox Calendar\obj\Debug\21.10.20 TextBox Calendar.pdb

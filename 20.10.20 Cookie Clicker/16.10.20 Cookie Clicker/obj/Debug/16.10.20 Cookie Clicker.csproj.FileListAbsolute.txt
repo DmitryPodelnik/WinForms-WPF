@@ -1,0 +1,10 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 Cookie Clicker\16.10.20 Cookie Clicker\bin\Debug\16.10.20 Cookie Clicker.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 Cookie Clicker\16.10.20 Cookie Clicker\bin\Debug\16.10.20 Cookie Clicker.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 Cookie Clicker\16.10.20 Cookie Clicker\bin\Debug\16.10.20 Cookie Clicker.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 Cookie Clicker\16.10.20 Cookie Clicker\obj\Debug\16.10.20 Cookie Clicker.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 Cookie Clicker\16.10.20 Cookie Clicker\obj\Debug\_16._10._20_Cookie_Clicker.Properties.Resources.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 Cookie Clicker\16.10.20 Cookie Clicker\obj\Debug\16.10.20 Cookie Clicker.csproj.GenerateResource.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 Cookie Clicker\16.10.20 Cookie Clicker\obj\Debug\16.10.20 Cookie Clicker.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 Cookie Clicker\16.10.20 Cookie Clicker\obj\Debug\16.10.20 Cookie Clicker.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 Cookie Clicker\16.10.20 Cookie Clicker\obj\Debug\16.10.20 Cookie Clicker.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 Cookie Clicker\16.10.20 Cookie Clicker\obj\Debug\_16._10._20_Cookie_Clicker.Form1.resources

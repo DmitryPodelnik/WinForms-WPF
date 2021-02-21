@@ -1,0 +1,14 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\bin\Debug\netcoreapp3.1\16.10.20 example.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\bin\Debug\netcoreapp3.1\16.10.20 example.deps.json
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\bin\Debug\netcoreapp3.1\16.10.20 example.runtimeconfig.json
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\bin\Debug\netcoreapp3.1\16.10.20 example.runtimeconfig.dev.json
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\bin\Debug\netcoreapp3.1\16.10.20 example.dll
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\bin\Debug\netcoreapp3.1\16.10.20 example.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\obj\Debug\netcoreapp3.1\_16._10._20_example.Form1.resources
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\obj\Debug\netcoreapp3.1\16.10.20 example.csproj.GenerateResource.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\obj\Debug\netcoreapp3.1\16.10.20 example.AssemblyInfoInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\obj\Debug\netcoreapp3.1\16.10.20 example.AssemblyInfo.cs
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\obj\Debug\netcoreapp3.1\16.10.20 example.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\obj\Debug\netcoreapp3.1\16.10.20 example.dll
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\obj\Debug\netcoreapp3.1\16.10.20 example.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\WinForms\Solved homework\16.10.20 example\16.10.20 example\obj\Debug\netcoreapp3.1\16.10.20 example.genruntimeconfig.cache
